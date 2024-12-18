@@ -1,2 +1,2 @@
 # AI-Learning
-Various courses and tutorials related to the AI field 
+This repository contains a collection of courses and tutorials focused on various aspects of Artificial Intelligence (AI) and its subfields. It is designed to provide comprehensive learning materials for anyone interested in exploring AI, including topics such as machine learning, deep learning, natural language processing, and more. The repository primarily consists of Jupyter Notebooks, which offer interactive and practical examples to enhance the learning experience.
